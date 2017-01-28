@@ -1,1 +1,4 @@
-.asv
+*.asv
+StatsAnalysis.m
+tiffread.m
+ImageReanalysis.m
